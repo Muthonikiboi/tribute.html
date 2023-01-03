@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+.div1{
+    color: white;
+    text-align: center;
+    display: grid;
+}
+.h1{
+    font-family: "Brush Script MT", cursive;
+}
+h4{
+    font-family: Georgia, serif;
+}
+.div2{
+    background-color: white;
+    color: black;
+    height: 500px;
+}
+.div4{
+    width: 500px;
+    height: 500px;
+    float: right;
+    display: grid;
+    align-items: center;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.div3{
+    width: 730px;
+    height: 500px;
+    float: left;
+    display: grid;
+    align-items: center;
+}
+.div6{
+    color: white;
+    display: grid;
+    align-items: center;
+}
+.div5{
+        width: 500px;
+        margin-left: 400px;
+}
+p{
+    border-bottom: 5px solid white;
+}
